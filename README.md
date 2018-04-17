@@ -1,2 +1,5 @@
 # dotfiles
-My dotfiles
+Configuration files for:
+* Neovim
+* vim
+* zsh
